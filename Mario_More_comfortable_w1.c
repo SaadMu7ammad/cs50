@@ -27,7 +27,9 @@ for(int i=1;i<=n;i++){
     
     
     int r=i;
-    int rr=i;
+    int rr=i;  //repeated
+    
+    //worked on one side of the triangle and repeated again after the line 38 
     
  while(r>0){
     printf("#");
